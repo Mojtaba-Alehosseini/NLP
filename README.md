@@ -1,2 +1,2 @@
-# NLP
-+ Basic topic identification based on database from Isna.
+# Natural Language Processing
++ extracting the main topic of news from Isna database
